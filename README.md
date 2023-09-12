@@ -1,1 +1,2 @@
-# exemplo2miaa
+Após clonar o repositório dp projeto executar :
+npm i
